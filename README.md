@@ -79,7 +79,7 @@ int lookWithYourEyesFor(randomlib::link myLink)
 
 ## Authors
 
-* **Samuel Bondoc** - *Everything that makes this bad* - [sBondoc](https://github.com/sBondoc)
+* **Samuel Bondoc:** *Everything that makes this bad* - [sBondoc](https://github.com/sBondoc)
 
 ## Acknowledgments
 
