@@ -25,9 +25,11 @@ double readerInterest();
 
 ## Getting Started
 
-You have to have a look at the README file first.
+You don't have to have a look at the README file first.
 
-Oh wait...
+Wait...
+
+Uh...
 
 ### Prerequisites
 
