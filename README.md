@@ -77,7 +77,7 @@ int lookWithYourEyesFor(randomlib::link myLink)
 
 * [GitHub](https://github.com/) - A website you've probably never heard of
 * [Computer](https://www.microsoft.com/en-us/windows/view-all-devices) - The only kind of machine you should be using for this kind of thing
-* [Intelligence](https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pok%C3%A9mon)) Imperative to creating content of this quality
+* [Intelligence](https://bulbapedia.bulbagarden.net/wiki/Bidoof_(Pok%C3%A9mon)) - Imperative to creating content of this quality
 
 ## Authors
 
