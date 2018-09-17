@@ -15,7 +15,6 @@ double readerInterest();
     while (readerInterest() > 0.0)
     {
       pgs.append(" that may contain links to pages");
-      readerInteres = readerInteres - 1.0;
     }
     return pgs;
   }
